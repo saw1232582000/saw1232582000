@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, I'm Thurein Zaw</h1>
+<h1 align="center">👋 Hola, I'm Saw Win Thant</h1>
 
  
 
@@ -10,7 +10,7 @@
 
  
 
-- 🌍 I'm based in **Myanmar**
+- 🌍 I'm based in **Thailand**
 
 - 🖥️ See my protfolio *<u><a href=https://thurein-zaw-full-stac-k-web-developer-portfolio.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR05sRaEHSppyroWRYHrpJTw2-c5HBCNULtyG2fl9x1p6fbWsmR4pcqzMvg_aem_ASEm16_Z_gGk5FZ3C9Nt9dZ8KWWQJsgOe4VfccWBM_hWD52hEbuG3FyGofGuKfuRDWxs_cxXc_73gdaBpOOHhhCe target="_blank">Portfolio</a></u>*
 
