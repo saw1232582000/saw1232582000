@@ -12,29 +12,15 @@
 
 - 🌍 I'm based in **Thailand**
 
-- 🖥️ See my protfolio *<u><a href=https://thurein-zaw-full-stac-k-web-developer-portfolio.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR05sRaEHSppyroWRYHrpJTw2-c5HBCNULtyG2fl9x1p6fbWsmR4pcqzMvg_aem_ASEm16_Z_gGk5FZ3C9Nt9dZ8KWWQJsgOe4VfccWBM_hWD52hEbuG3FyGofGuKfuRDWxs_cxXc_73gdaBpOOHhhCe target="_blank">Portfolio</a></u>*
 
-- ✉️ Contact Me At *<u><a href=mailto:mhkhizilthurainzaw@gmail.com target="_blank">mhkhizilthurainzaw@gmail.com</a></u>*
 
  
 
  
 
-- I am currently working full time remotely at Grummen Holdings as a full stack developer using nextJs,typescript as a front end technology and fast api as a backend micro service and i also work full time at Potato.rocket as a front-end developer using nextJsa and typescript
+- I am currently working full time remotely at KBLAB.CO as a full stack developer using nextJs,typescript as a front end technology and Node.js as a backend micro service.
 
-<h2>Social</h2>
 
-<a href="https://www.github.com/mhkhizil" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
-
-<a href="https://www.linkedin.com/in/thurein-zaw-62ab73291" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
-
-<a href="https://discord.com/users/thureinzaw" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730718/ease-prof/social/discord-icon-svgrepo-com_wuyhta.svg" height="40" width="40" alt=discord/>
-
-<a href="https://www.facebook.com/khizil/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730776/ease-prof/social/facebook-tile_ohluug.svg" height="40" width="40" alt=facebook/>
-
-<a href="https://www.stackoverflow.com/users/18001133/mh-khizil" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676731089/ease-prof/social/stackoverflow-tile_h07xxl.svg" height="40" width="40" alt=stackoverflow/>
-
- 
 
 <h2>Skills</h2>
 
